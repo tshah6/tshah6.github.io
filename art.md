@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: About
-permalink: /about/
+title: Art
+permalink: /art/
 ---
 ## Markdown
 
@@ -11,7 +11,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-# Header 1
+# Art
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -195,7 +195,7 @@ body {
 paginate: 10
 footer_text: ''
 admin_name: 'Trishna Shah'
-google_analytics: "" # Update with your own tracking ID
+google_analytics: " # Update with your own tracking ID
 
 #### Phantom Navigation menu
 enable_nav: true
